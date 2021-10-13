@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Sleep",
+      "day": "every night",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Eat",
+      "day": "EveryTime",
+      "reminder": true
+    }
+  ]
+}
